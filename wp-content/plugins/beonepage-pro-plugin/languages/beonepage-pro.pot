@@ -1,0 +1,679 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR BeTheme
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BeOnePage Pro Plugin 1.1.2\n"
+"Report-Msgid-Bugs-To: hi@betheme.me\n"
+"POT-Creation-Date: 2016-02-26 02:37+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: inc/cmb2/CMB.php:41 inc/custom-menu/menu-item-custom-field.php:166
+msgid "Choose Icon"
+msgstr ""
+
+#: inc/cmb2/CMB.php:42 inc/custom-menu/menu-item-custom-field.php:168
+msgid "Remove Icon"
+msgstr ""
+
+#: inc/cmb2/CMB.php:52 inc/custom-menu/menu-item-custom-field.php:177
+msgid "Type to search icons"
+msgstr ""
+
+#: inc/cmb2/CMB.php:79
+msgid "flash"
+msgstr ""
+
+#: inc/cmb2/CMB.php:80
+msgid "pulse"
+msgstr ""
+
+#: inc/cmb2/CMB.php:81
+msgid "rubberBand"
+msgstr ""
+
+#: inc/cmb2/CMB.php:82
+msgid "shake"
+msgstr ""
+
+#: inc/cmb2/CMB.php:83
+msgid "swing"
+msgstr ""
+
+#: inc/cmb2/CMB.php:84
+msgid "tada"
+msgstr ""
+
+#: inc/cmb2/CMB.php:85
+msgid "wobble"
+msgstr ""
+
+#: inc/cmb2/CMB.php:86
+msgid "jello"
+msgstr ""
+
+#: inc/cmb2/CMB.php:87
+msgid "bounce"
+msgstr ""
+
+#: inc/cmb2/CMB.php:88
+msgid "bounceIn"
+msgstr ""
+
+#: inc/cmb2/CMB.php:89
+msgid "bounceInLeft"
+msgstr ""
+
+#: inc/cmb2/CMB.php:90
+msgid "bounceInRight"
+msgstr ""
+
+#: inc/cmb2/CMB.php:91
+msgid "bounceInUp"
+msgstr ""
+
+#: inc/cmb2/CMB.php:92
+msgid "bounceInDown"
+msgstr ""
+
+#: inc/cmb2/CMB.php:93
+msgid "FadeIn"
+msgstr ""
+
+#: inc/cmb2/CMB.php:94
+msgid "FadeInLeft"
+msgstr ""
+
+#: inc/cmb2/CMB.php:95
+msgid "FadeInRight"
+msgstr ""
+
+#: inc/cmb2/CMB.php:96
+msgid "FadeInUp"
+msgstr ""
+
+#: inc/cmb2/CMB.php:97
+msgid "FadeInDown"
+msgstr ""
+
+#: inc/cmb2/CMB.php:98
+msgid "flipInX"
+msgstr ""
+
+#: inc/cmb2/CMB.php:99
+msgid "flipInY"
+msgstr ""
+
+#: inc/cmb2/CMB.php:100
+msgid "slideInLeft"
+msgstr ""
+
+#: inc/cmb2/CMB.php:101
+msgid "slideInRight"
+msgstr ""
+
+#: inc/cmb2/CMB.php:102
+msgid "slideInUp"
+msgstr ""
+
+#: inc/cmb2/CMB.php:103
+msgid "slideInDown"
+msgstr ""
+
+#: inc/cmb2/CMB.php:104
+msgid "zoomIn"
+msgstr ""
+
+#: inc/cmb2/CMB.php:105
+msgid "zoomInLeft"
+msgstr ""
+
+#: inc/cmb2/CMB.php:106
+msgid "zoomInRight"
+msgstr ""
+
+#: inc/cmb2/CMB.php:107
+msgid "zoomInUp"
+msgstr ""
+
+#: inc/cmb2/CMB.php:108
+msgid "zoomInDown"
+msgstr ""
+
+#: inc/cmb2/CMB.php:117
+msgid "Post Metabox"
+msgstr ""
+
+#: inc/cmb2/CMB.php:124 inc/cmb2/CMB.php:188
+msgid "Audio & Video Resources:"
+msgstr ""
+
+#: inc/cmb2/CMB.php:125 inc/cmb2/CMB.php:189
+msgid ""
+"It is easy to embed audios or videos from popular websites (YouTube, Vimeo, "
+"SoundCloud, etc.), just need to paste the link."
+msgstr ""
+
+#: inc/cmb2/CMB.php:130 inc/cmb2/CMB.php:194
+msgid "Audio"
+msgstr ""
+
+#: inc/cmb2/CMB.php:131 inc/cmb2/CMB.php:195 inc/cmb2/CMB.php:238
+msgid "Video"
+msgstr ""
+
+#: inc/cmb2/CMB.php:136 inc/cmb2/CMB.php:200
+msgid "Audio URL:"
+msgstr ""
+
+#: inc/cmb2/CMB.php:142 inc/cmb2/CMB.php:206
+msgid "Video URL:"
+msgstr ""
+
+#: inc/cmb2/CMB.php:151
+msgid "Portfolio Metabox"
+msgstr ""
+
+#: inc/cmb2/CMB.php:158
+msgid "Created by:"
+msgstr ""
+
+#: inc/cmb2/CMB.php:164
+msgid "Completed on:"
+msgstr ""
+
+#: inc/cmb2/CMB.php:170
+msgid "Skills:"
+msgstr ""
+
+#: inc/cmb2/CMB.php:176
+msgid "Client's Name:"
+msgstr ""
+
+#: inc/cmb2/CMB.php:182
+msgid "Client's URL:"
+msgstr ""
+
+#: inc/cmb2/CMB.php:215
+msgid "Slider Metabox"
+msgstr ""
+
+#: inc/cmb2/CMB.php:224
+msgid "Slide {#}"
+msgstr ""
+
+#: inc/cmb2/CMB.php:225
+msgid "Add Another Slide"
+msgstr ""
+
+#: inc/cmb2/CMB.php:226
+msgid "Remove Slide"
+msgstr ""
+
+#: inc/cmb2/CMB.php:232
+msgid "Slider Type"
+msgstr ""
+
+#: inc/cmb2/CMB.php:237 inc/cmb2/CMB.php:243
+msgid "Image"
+msgstr ""
+
+#: inc/cmb2/CMB.php:244 inc/cmb2/CMB.php:549 inc/cmb2/CMB.php:649
+#: inc/cmb2/CMB.php:698
+msgid "Upload an image or enter an URL."
+msgstr ""
+
+#: inc/cmb2/CMB.php:248 inc/cmb2/CMB.php:553 inc/cmb2/CMB.php:653
+#: inc/cmb2/CMB.php:702
+msgid "Add or Upload Image"
+msgstr ""
+
+#: inc/cmb2/CMB.php:253
+msgid "YouTube Video"
+msgstr ""
+
+#: inc/cmb2/CMB.php:254
+msgid ""
+"It is easy to use any YouTube video as your background, just need to paste "
+"the link. <b>IMPORTANT NOTE:</b> The YouTube Video is automatically disabled "
+"in mobile devices. Instead, the Image will be used, so it's better to define "
+"both Image and YouTube Video for best results."
+msgstr ""
+
+#: inc/cmb2/CMB.php:260
+msgid "Heading"
+msgstr ""
+
+#: inc/cmb2/CMB.php:261 inc/cmb2/CMB.php:333 inc/cmb2/CMB.php:389
+msgid "If you want to color the word, just wrap it with \"span\" tag."
+msgstr ""
+
+#: inc/cmb2/CMB.php:276 inc/cmb2/CMB.php:671 inc/cmb2/CMB.php:793
+msgid "Content"
+msgstr ""
+
+#: inc/cmb2/CMB.php:291 inc/cmb2/CMB.php:772
+msgid "Button Text"
+msgstr ""
+
+#: inc/cmb2/CMB.php:297 inc/cmb2/CMB.php:778
+msgid "Button URL"
+msgstr ""
+
+#: inc/cmb2/CMB.php:315
+msgid "Icon Services Metabox"
+msgstr ""
+
+#: inc/cmb2/CMB.php:324 inc/cmb2/CMB.php:380
+msgid "Service Box {#}"
+msgstr ""
+
+#: inc/cmb2/CMB.php:325 inc/cmb2/CMB.php:381
+msgid "Add Another Service Box"
+msgstr ""
+
+#: inc/cmb2/CMB.php:326 inc/cmb2/CMB.php:382
+msgid "Remove Service Box"
+msgstr ""
+
+#: inc/cmb2/CMB.php:332 inc/cmb2/CMB.php:388 inc/cmb2/CMB.php:499
+#: inc/cmb2/CMB.php:564 inc/cmb2/CMB.php:746
+msgid "Title"
+msgstr ""
+
+#: inc/cmb2/CMB.php:339 inc/cmb2/CMB.php:395 inc/cmb2/CMB.php:450
+#: inc/cmb2/CMB.php:505
+msgid "Description"
+msgstr ""
+
+#: inc/cmb2/CMB.php:345 inc/cmb2/CMB.php:401 inc/cmb2/CMB.php:456
+#: inc/cmb2/CMB.php:511
+msgid "Icon"
+msgstr ""
+
+#: inc/cmb2/CMB.php:353 inc/cmb2/CMB.php:409 inc/cmb2/CMB.php:464
+msgid "URL"
+msgstr ""
+
+#: inc/cmb2/CMB.php:371
+msgid "Icon Services with Image Metabox"
+msgstr ""
+
+#: inc/cmb2/CMB.php:427
+msgid "Contact Metabox"
+msgstr ""
+
+#: inc/cmb2/CMB.php:436
+msgid "Contact Box {#}"
+msgstr ""
+
+#: inc/cmb2/CMB.php:437
+msgid "Add Another Contact Box"
+msgstr ""
+
+#: inc/cmb2/CMB.php:438
+msgid "Remove Contact Box"
+msgstr ""
+
+#: inc/cmb2/CMB.php:444
+msgid "Label"
+msgstr ""
+
+#: inc/cmb2/CMB.php:482
+msgid "Process Metabox"
+msgstr ""
+
+#: inc/cmb2/CMB.php:491
+msgid "Process Flow {#}"
+msgstr ""
+
+#: inc/cmb2/CMB.php:492
+msgid "Add Another Process"
+msgstr ""
+
+#: inc/cmb2/CMB.php:493
+msgid "Remove Process"
+msgstr ""
+
+#: inc/cmb2/CMB.php:531
+msgid "Team Metabox"
+msgstr ""
+
+#: inc/cmb2/CMB.php:540
+msgid "Team Member {#}"
+msgstr ""
+
+#: inc/cmb2/CMB.php:541
+msgid "Add Another Team Member"
+msgstr ""
+
+#: inc/cmb2/CMB.php:542
+msgid "Remove Team Member"
+msgstr ""
+
+#: inc/cmb2/CMB.php:548
+msgid "Picture"
+msgstr ""
+
+#: inc/cmb2/CMB.php:558
+msgid "Name"
+msgstr ""
+
+#: inc/cmb2/CMB.php:570
+msgid "Bio"
+msgstr ""
+
+#: inc/cmb2/CMB.php:576
+msgid "Social Label 1"
+msgstr ""
+
+#: inc/cmb2/CMB.php:577 inc/cmb2/CMB.php:590 inc/cmb2/CMB.php:603
+#: inc/cmb2/CMB.php:616
+msgid "e.g. Twitter, Facebook, LinkedIn, Google Plus."
+msgstr ""
+
+#: inc/cmb2/CMB.php:583
+msgid "Social Link 1"
+msgstr ""
+
+#: inc/cmb2/CMB.php:589
+msgid "Social Label 2"
+msgstr ""
+
+#: inc/cmb2/CMB.php:596
+msgid "Social Link 2"
+msgstr ""
+
+#: inc/cmb2/CMB.php:602
+msgid "Social Label 3"
+msgstr ""
+
+#: inc/cmb2/CMB.php:609
+msgid "Social Link 3"
+msgstr ""
+
+#: inc/cmb2/CMB.php:615
+msgid "Social Label 4"
+msgstr ""
+
+#: inc/cmb2/CMB.php:622
+msgid "Social Link 4"
+msgstr ""
+
+#: inc/cmb2/CMB.php:631
+msgid "Testimonial Metabox"
+msgstr ""
+
+#: inc/cmb2/CMB.php:640
+msgid "Testimonial {#}"
+msgstr ""
+
+#: inc/cmb2/CMB.php:641
+msgid "Add Another Testimonial"
+msgstr ""
+
+#: inc/cmb2/CMB.php:642
+msgid "Remove Testimonial"
+msgstr ""
+
+#: inc/cmb2/CMB.php:648
+msgid "Client Picture"
+msgstr ""
+
+#: inc/cmb2/CMB.php:658 inc/cmb2/CMB.php:707
+msgid "Client Name"
+msgstr ""
+
+#: inc/cmb2/CMB.php:664
+msgid "Addition"
+msgstr ""
+
+#: inc/cmb2/CMB.php:665
+msgid "e.g. company or title."
+msgstr ""
+
+#: inc/cmb2/CMB.php:680
+msgid "Client Metabox"
+msgstr ""
+
+#: inc/cmb2/CMB.php:689
+msgid "Client {#}"
+msgstr ""
+
+#: inc/cmb2/CMB.php:690
+msgid "Add Another Client"
+msgstr ""
+
+#: inc/cmb2/CMB.php:691
+msgid "Remove Client"
+msgstr ""
+
+#: inc/cmb2/CMB.php:697
+msgid "Client Logo"
+msgstr ""
+
+#: inc/cmb2/CMB.php:713
+msgid "Client URL"
+msgstr ""
+
+#: inc/cmb2/CMB.php:722
+msgid "Pricing Table Metabox"
+msgstr ""
+
+#: inc/cmb2/CMB.php:731
+msgid "Pricing Table {#}"
+msgstr ""
+
+#: inc/cmb2/CMB.php:732
+msgid "Add Another Pricing Table"
+msgstr ""
+
+#: inc/cmb2/CMB.php:733
+msgid "Remove Pricing Table"
+msgstr ""
+
+#: inc/cmb2/CMB.php:740
+msgid "Featuring a table will mark it with a star."
+msgstr ""
+
+#: inc/cmb2/CMB.php:752
+msgid "Currency"
+msgstr ""
+
+#: inc/cmb2/CMB.php:753
+msgid "Input your desired currency symbol here. e.g. \"$\"."
+msgstr ""
+
+#: inc/cmb2/CMB.php:759
+msgid "Duration"
+msgstr ""
+
+#: inc/cmb2/CMB.php:760
+msgid ""
+"If your pricing is subscription based, input the subscription payment cycle "
+"here. e.g. monthly."
+msgstr ""
+
+#: inc/cmb2/CMB.php:766
+msgid "Price"
+msgstr ""
+
+#: inc/cmb2/CMB.php:795
+msgid ""
+"Input a list of features that are/are not included in the product. Separate "
+"items on a new line, and begin with either a + or - symbol: + Included "
+"option - Excluded option."
+msgstr ""
+
+#: inc/cpt/CPT.php:399 inc/cpt/CPT.php:400 inc/cpt/CPT.php:401
+#: inc/cpt/CPT.php:402 inc/cpt/CPT.php:497 inc/cpt/CPT.php:498
+#: inc/cpt/CPT.php:499 inc/cpt/CPT.php:626
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/cpt/CPT.php:403
+msgid "Add New"
+msgstr ""
+
+#: inc/cpt/CPT.php:404 inc/cpt/CPT.php:504
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:405 inc/cpt/CPT.php:501
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:406
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:407 inc/cpt/CPT.php:502
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:408 inc/cpt/CPT.php:508
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:409 inc/cpt/CPT.php:513
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: inc/cpt/CPT.php:410
+#, php-format
+msgid "No %s found in Trash"
+msgstr ""
+
+#: inc/cpt/CPT.php:411 inc/cpt/CPT.php:507
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: inc/cpt/CPT.php:500
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:503
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:505
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: inc/cpt/CPT.php:506
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:509
+#, php-format
+msgid "Popular %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:510
+#, php-format
+msgid "Seperate %s with commas"
+msgstr ""
+
+#: inc/cpt/CPT.php:511
+#, php-format
+msgid "Add or remove %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:512
+#, php-format
+msgid "Choose from most used %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:700
+#, php-format
+msgid "No %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:826
+#, php-format
+msgid "Show all %s"
+msgstr ""
+
+#: inc/cpt/CPT.php:1044 inc/cpt/CPT.php:1047 inc/cpt/CPT.php:1049
+#, php-format
+msgid "%s updated."
+msgstr ""
+
+#: inc/cpt/CPT.php:1045
+msgid "Custom field updated."
+msgstr ""
+
+#: inc/cpt/CPT.php:1046
+msgid "Custom field deleted."
+msgstr ""
+
+#: inc/cpt/CPT.php:1048
+#, php-format
+msgid "%2$s restored to revision from %1$s"
+msgstr ""
+
+#: inc/cpt/CPT.php:1050
+#, php-format
+msgid "%s saved."
+msgstr ""
+
+#: inc/cpt/CPT.php:1051
+#, php-format
+msgid "%s submitted."
+msgstr ""
+
+#: inc/cpt/CPT.php:1053
+#, php-format
+msgid "%2$s scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: inc/cpt/CPT.php:1054
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: inc/cpt/CPT.php:1057
+#, php-format
+msgid "%s draft updated."
+msgstr ""
+
+#: inc/cpt/CPT.php:1076 inc/cpt/CPT.php:1077 inc/cpt/CPT.php:1078
+#: inc/cpt/CPT.php:1079 inc/cpt/CPT.php:1080
+#, php-format
+msgid "%s "
+msgid_plural "%s "
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/custom-menu/menu-item-custom-field.php:69
+msgid "Menu Icon"
+msgstr ""
+
+#: inc/custom-menu/menu-item-custom-field.php:165
+msgid "Select an icon for the menu item"
+msgstr ""
+
+#: inc/custom-menu/menu-item-custom-field.php:330
+msgid "Add a menu"
+msgstr ""
