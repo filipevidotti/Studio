@@ -1,0 +1,1 @@
+[27-Dec-2014 20:35:58] PHP Fatal error:  Call to undefined method DateTime::createFromFormat() in /home/vocem831/public_html/multinfor.com.br/wp-content/plugins/squeeze-page/inc/email-contador.php on line 10
