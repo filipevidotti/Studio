@@ -1,0 +1,2801 @@
+# Copyright (C) 2016 BeTheme
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: BeOnePage Pro 1.5.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/beonepage-pro\n"
+"POT-Creation-Date: 2016-08-20 09:30:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:31
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:32
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40 comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:65
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:66
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:88
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:90
+msgid "Leave a <span>Comment</span>"
+msgstr ""
+
+#: comments.php:93
+msgid "Comment"
+msgstr ""
+
+#: comments.php:100 template-parts/module-contact.php:96
+#: woocommerce/single-product-reviews.php:66
+msgid "Name"
+msgstr ""
+
+#: comments.php:105
+msgid "E-Mail"
+msgstr ""
+
+#: comments.php:110
+msgid "Website"
+msgstr ""
+
+#: footer.php:68
+msgid " Build with %s."
+msgstr ""
+
+#: functions.php:52
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:53
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:120
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:130
+msgid "WooCommerce"
+msgstr ""
+
+#: functions.php:146
+msgid "Widget Areas for Front Page"
+msgstr ""
+
+#: functions.php:230
+msgid "Close the map"
+msgstr ""
+
+#: functions.php:231
+msgid "Play"
+msgstr ""
+
+#: functions.php:232
+msgid "Pause"
+msgstr ""
+
+#: functions.php:233
+msgid "Mute"
+msgstr ""
+
+#: functions.php:234
+msgid "Unmute"
+msgstr ""
+
+#: functions.php:235
+msgid "Show player in popup window"
+msgstr ""
+
+#: functions.php:236
+msgid "Added to cart"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: inc/breadcrumb.php:11
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumb.php:12 inc/kirki/config.php:779
+msgid "Blog"
+msgstr ""
+
+#: inc/breadcrumb.php:13
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: inc/breadcrumb.php:14
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: inc/breadcrumb.php:15
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: inc/breadcrumb.php:16
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: inc/breadcrumb.php:17
+msgid "Error 404"
+msgstr ""
+
+#: inc/breadcrumb.php:227
+msgid "Page"
+msgstr ""
+
+#: inc/comments-callback.php:42
+msgctxt "post date"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/comments-callback.php:50
+msgctxt "edit comment"
+msgid "Edit"
+msgstr ""
+
+#: inc/comments-callback.php:57
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/extras.php:218 inc/extras.php:252
+msgid "Verification error. Try again!"
+msgstr ""
+
+#: inc/extras.php:230
+msgid "phone"
+msgstr ""
+
+#: inc/extras.php:235
+msgid "Thank you. The Mailman is on his way!"
+msgstr ""
+
+#: inc/extras.php:237
+msgid "Sorry, don't know what happened. Try later!"
+msgstr ""
+
+#: inc/extras.php:254 inc/extras.php:499
+msgid "Not properly configured, please check your settings."
+msgstr ""
+
+#: inc/extras.php:270
+msgid "Thanks, we will be in touch!"
+msgstr ""
+
+#: inc/extras.php:307
+msgid "First"
+msgstr ""
+
+#: inc/extras.php:311
+msgid "Prev"
+msgstr ""
+
+#: inc/extras.php:321
+msgid "Next"
+msgstr ""
+
+#: inc/extras.php:325
+msgid "Last"
+msgstr ""
+
+#: inc/extras.php:475
+msgid "icon found."
+msgstr ""
+
+#: inc/extras.php:476
+msgid "icons found."
+msgstr ""
+
+#: inc/extras.php:477
+msgid "No icons found."
+msgstr ""
+
+#: inc/extras.php:583
+msgid "year"
+msgstr ""
+
+#: inc/extras.php:583
+msgid "years"
+msgstr ""
+
+#: inc/extras.php:584
+msgid "month"
+msgstr ""
+
+#: inc/extras.php:584
+msgid "months"
+msgstr ""
+
+#: inc/extras.php:585
+msgid "week"
+msgstr ""
+
+#: inc/extras.php:585
+msgid "weeks"
+msgstr ""
+
+#: inc/extras.php:586
+msgid "day"
+msgstr ""
+
+#: inc/extras.php:586
+msgid "days"
+msgstr ""
+
+#: inc/extras.php:587
+msgid "hour"
+msgstr ""
+
+#: inc/extras.php:587
+msgid "hours"
+msgstr ""
+
+#: inc/extras.php:588
+msgid "minute"
+msgstr ""
+
+#: inc/extras.php:588
+msgid "minutes"
+msgstr ""
+
+#: inc/extras.php:589
+msgid "second"
+msgstr ""
+
+#: inc/extras.php:589 inc/extras.php:614
+msgid "seconds"
+msgstr ""
+
+#: inc/extras.php:599
+msgid "sometime"
+msgstr ""
+
+#: inc/extras.php:617
+msgid " ago"
+msgstr ""
+
+#: inc/kirki/config.php:34
+msgid "General"
+msgstr ""
+
+#: inc/kirki/config.php:35
+msgid "You may need to refresh the page to see the changes."
+msgstr ""
+
+#: inc/kirki/config.php:40
+msgid "Typography"
+msgstr ""
+
+#: inc/kirki/config.php:41
+msgid "Here you can change the fonts of your site."
+msgstr ""
+
+#: inc/kirki/config.php:46
+msgid "Icon & Logo"
+msgstr ""
+
+#: inc/kirki/config.php:47
+msgid "Here you can upload your own custom favicon and logo image"
+msgstr ""
+
+#: inc/kirki/config.php:53 inc/kirki/config.php:213
+msgid "Front Page"
+msgstr ""
+
+#: inc/kirki/config.php:59
+msgid "Module Manager"
+msgstr ""
+
+#: inc/kirki/config.php:60
+msgid "Here you can enable/disable and reorder modules for front page."
+msgstr ""
+
+#: inc/kirki/config.php:66
+msgid "Slider Module"
+msgstr ""
+
+#: inc/kirki/config.php:72
+msgid "Icon Service Module"
+msgstr ""
+
+#: inc/kirki/config.php:78
+msgid "Icon Service with Image Module"
+msgstr ""
+
+#: inc/kirki/config.php:84
+msgid "Portfolio Module"
+msgstr ""
+
+#: inc/kirki/config.php:90
+msgid "Vertical Promotion Module"
+msgstr ""
+
+#: inc/kirki/config.php:96
+msgid "Horizontal Promotion Module"
+msgstr ""
+
+#: inc/kirki/config.php:102
+msgid "Blog Module"
+msgstr ""
+
+#: inc/kirki/config.php:108
+msgid "Contact Module"
+msgstr ""
+
+#: inc/kirki/config.php:114
+msgid "Process Module"
+msgstr ""
+
+#: inc/kirki/config.php:120
+msgid "Team Module"
+msgstr ""
+
+#: inc/kirki/config.php:126
+msgid "Skill Bar Module"
+msgstr ""
+
+#: inc/kirki/config.php:132
+msgid "Testimonial Module"
+msgstr ""
+
+#: inc/kirki/config.php:138
+msgid "Client Module"
+msgstr ""
+
+#: inc/kirki/config.php:144
+msgid "Fun Fact Module"
+msgstr ""
+
+#: inc/kirki/config.php:150
+msgid "Pricing Table Module"
+msgstr ""
+
+#: inc/kirki/config.php:156
+msgid "Twitter Module"
+msgstr ""
+
+#: inc/kirki/config.php:162
+msgid "MailChimp Subscribe Module"
+msgstr ""
+
+#: inc/kirki/config.php:168
+msgid "Widget Module"
+msgstr ""
+
+#: inc/kirki/config.php:174
+msgid "Custom Module"
+msgstr ""
+
+#: inc/kirki/config.php:180
+msgid "Menu Style"
+msgstr ""
+
+#: inc/kirki/config.php:181
+msgid "Here you can customize your menu styles."
+msgstr ""
+
+#: inc/kirki/config.php:188
+msgid "Blog Page"
+msgstr ""
+
+#: inc/kirki/config.php:189
+msgid "Here you can customize your blog pages."
+msgstr ""
+
+#: inc/kirki/config.php:195
+msgid "Site Footer"
+msgstr ""
+
+#: inc/kirki/config.php:196
+msgid "Here you can customize the footer on your site."
+msgstr ""
+
+#: inc/kirki/config.php:214
+msgid "Create a blank page with Home Page template and set it as Front Page."
+msgstr ""
+
+#: inc/kirki/config.php:223
+msgid "Posts Page"
+msgstr ""
+
+#: inc/kirki/config.php:224
+msgid "Create a blank page and set it as Posts Page."
+msgstr ""
+
+#: inc/kirki/config.php:233
+msgid "Enable Page Loading Transition?"
+msgstr ""
+
+#: inc/kirki/config.php:234
+msgid "You can show interactive loader while the page loads in the background."
+msgstr ""
+
+#: inc/kirki/config.php:243
+msgid "Spinner"
+msgstr ""
+
+#: inc/kirki/config.php:248
+msgid "Ball Pulse"
+msgstr ""
+
+#: inc/kirki/config.php:249
+msgid "Ball Grid Pulse"
+msgstr ""
+
+#: inc/kirki/config.php:250
+msgid "Ball Clip Rotate"
+msgstr ""
+
+#: inc/kirki/config.php:251
+msgid "Ball Clip Rotate Pulse"
+msgstr ""
+
+#: inc/kirki/config.php:252
+msgid "Ball Clip Rotate Multiple"
+msgstr ""
+
+#: inc/kirki/config.php:253
+msgid "Square Spin"
+msgstr ""
+
+#: inc/kirki/config.php:254
+msgid "Ball Pulse Rise"
+msgstr ""
+
+#: inc/kirki/config.php:255
+msgid "Ball Rotate"
+msgstr ""
+
+#: inc/kirki/config.php:256
+msgid "Cube Transition"
+msgstr ""
+
+#: inc/kirki/config.php:257
+msgid "Ball Zig Zag"
+msgstr ""
+
+#: inc/kirki/config.php:258
+msgid "Ball Zig Zag Deflect"
+msgstr ""
+
+#: inc/kirki/config.php:259
+msgid "Ball Triangle Path"
+msgstr ""
+
+#: inc/kirki/config.php:260
+msgid "Ball Scale"
+msgstr ""
+
+#: inc/kirki/config.php:261
+msgid "Line Scale"
+msgstr ""
+
+#: inc/kirki/config.php:262
+msgid "Line Scale Party"
+msgstr ""
+
+#: inc/kirki/config.php:263
+msgid "Ball Scale Multiple"
+msgstr ""
+
+#: inc/kirki/config.php:264
+msgid "Ball Pulse Sync"
+msgstr ""
+
+#: inc/kirki/config.php:265
+msgid "Ball Beat"
+msgstr ""
+
+#: inc/kirki/config.php:266
+msgid "Line Scale Pulse Out"
+msgstr ""
+
+#: inc/kirki/config.php:267
+msgid "Line Scale Pulse Out Rapid"
+msgstr ""
+
+#: inc/kirki/config.php:268
+msgid "Ball Scale Ripple"
+msgstr ""
+
+#: inc/kirki/config.php:269
+msgid "Ball Scale Ripple Multiple"
+msgstr ""
+
+#: inc/kirki/config.php:270
+msgid "Ball Spin Fade Loader"
+msgstr ""
+
+#: inc/kirki/config.php:271
+msgid "Line Spin Fade Loader"
+msgstr ""
+
+#: inc/kirki/config.php:272
+msgid "Triangle Skew Spin"
+msgstr ""
+
+#: inc/kirki/config.php:273
+msgid "Pacman"
+msgstr ""
+
+#: inc/kirki/config.php:274
+msgid "Ball Grid Beat"
+msgstr ""
+
+#: inc/kirki/config.php:275
+msgid "Semi Circle Spin"
+msgstr ""
+
+#: inc/kirki/config.php:289
+msgid "Spinner Color"
+msgstr ""
+
+#: inc/kirki/config.php:305 inc/kirki/config.php:1267
+#: inc/kirki/config.php:1560 inc/kirki/config.php:1800
+#: inc/kirki/config.php:2348 inc/kirki/config.php:2600
+#: inc/kirki/config.php:2801 inc/kirki/config.php:3228
+#: inc/kirki/config.php:3662 inc/kirki/config.php:3953
+#: inc/kirki/config.php:4234 inc/kirki/config.php:4550
+#: inc/kirki/config.php:4675 inc/kirki/config.php:4829
+#: inc/kirki/config.php:5127 inc/kirki/config.php:5424
+#: inc/kirki/config.php:5695 inc/kirki/config.php:5910
+#: inc/kirki/config.php:6202 inc/kirki/config.php:6561
+#: inc/kirki/includes/class-kirki-toolkit.php:52
+msgid "Background Color"
+msgstr ""
+
+#: inc/kirki/config.php:321
+msgid "Enable Sticky Menu?"
+msgstr ""
+
+#: inc/kirki/config.php:322
+msgid ""
+"If enable, the menu will be accessible from anywhere without having to "
+"scroll."
+msgstr ""
+
+#: inc/kirki/config.php:331
+msgid "Enable Scrolling Progress Bar?"
+msgstr ""
+
+#: inc/kirki/config.php:347
+msgid "Progress Bar Color"
+msgstr ""
+
+#: inc/kirki/config.php:382
+msgid "Enable Go to Top Button?"
+msgstr ""
+
+#: inc/kirki/config.php:391 inc/kirki/config.php:935 inc/kirki/config.php:1033
+#: inc/kirki/config.php:2298 inc/kirki/config.php:2551
+#: inc/kirki/config.php:3354 inc/kirki/config.php:5100
+#: inc/kirki/config.php:5346 inc/kirki/config.php:6506
+msgid "Button Style"
+msgstr ""
+
+#: inc/kirki/config.php:396 inc/kirki/config.php:940 inc/kirki/config.php:1038
+#: inc/kirki/config.php:2303 inc/kirki/config.php:2556
+#: inc/kirki/config.php:3359 inc/kirki/config.php:5105
+#: inc/kirki/config.php:5351 inc/kirki/config.php:6511
+msgid "Light"
+msgstr ""
+
+#: inc/kirki/config.php:397 inc/kirki/config.php:941 inc/kirki/config.php:1039
+#: inc/kirki/config.php:2304 inc/kirki/config.php:2557
+#: inc/kirki/config.php:3360 inc/kirki/config.php:5106
+#: inc/kirki/config.php:5352 inc/kirki/config.php:6512
+msgid "Dark"
+msgstr ""
+
+#: inc/kirki/config.php:413
+msgid "Primary Font Family"
+msgstr ""
+
+#: inc/kirki/config.php:414
+msgid "The font family used for Body Text."
+msgstr ""
+
+#: inc/kirki/config.php:430
+msgid "Secondary Font Family"
+msgstr ""
+
+#: inc/kirki/config.php:431
+msgid "The font family used for H1-H6 Tags, Tooltips and Slider."
+msgstr ""
+
+#: inc/kirki/config.php:447
+msgid "Tertiary Font Family"
+msgstr ""
+
+#: inc/kirki/config.php:448
+msgid ""
+"The font family used for Site Title, Menu, Module Subtitle and Contact Boxes."
+msgstr ""
+
+#: inc/kirki/config.php:464 inc/kirki/includes/class-kirki-toolkit.php:100
+msgid "Font Size"
+msgstr ""
+
+#: inc/kirki/config.php:496
+msgid ""
+"Choose from over 600+ %1$sGoogle Fonts%2$s and preview them instantly "
+"without refreshing the page."
+msgstr ""
+
+#: inc/kirki/config.php:508
+msgid "Logo Type"
+msgstr ""
+
+#: inc/kirki/config.php:513 inc/kirki/config.php:804
+msgid "Text"
+msgstr ""
+
+#: inc/kirki/config.php:514 inc/kirki/config.php:805 inc/kirki/config.php:1259
+#: inc/kirki/config.php:1507 inc/kirki/config.php:1552
+#: inc/kirki/config.php:1792 inc/kirki/config.php:2340
+#: inc/kirki/config.php:2593 inc/kirki/config.php:2793
+#: inc/kirki/config.php:3220 inc/kirki/config.php:3654
+#: inc/kirki/config.php:3945 inc/kirki/config.php:4226
+#: inc/kirki/config.php:4542 inc/kirki/config.php:4668
+#: inc/kirki/config.php:4822 inc/kirki/config.php:5119
+#: inc/kirki/config.php:5416 inc/kirki/config.php:5688
+#: inc/kirki/config.php:5902 inc/kirki/config.php:6194
+msgid "Image"
+msgstr ""
+
+#: inc/kirki/config.php:521
+msgid "Site Title"
+msgstr ""
+
+#: inc/kirki/config.php:545
+msgid "Upload Logo"
+msgstr ""
+
+#: inc/kirki/config.php:561
+msgid "Upload Retina Logo"
+msgstr ""
+
+#: inc/kirki/config.php:562
+msgid ""
+"If you wish to use a retina logo, make sure that you use double the size of "
+"your standard logo."
+msgstr ""
+
+#: inc/kirki/config.php:580 inc/kirki/config.php:1095
+#: inc/kirki/config.php:1368 inc/kirki/config.php:4745
+#: inc/kirki/config.php:5757 inc/kirki/config.php:6049
+msgid "Layout"
+msgstr ""
+
+#: inc/kirki/config.php:581
+msgid "Choose the layout for the menu."
+msgstr ""
+
+#: inc/kirki/config.php:586 inc/kirki/config.php:1101
+#: inc/kirki/config.php:1374 inc/kirki/config.php:4751
+#: inc/kirki/config.php:5763 inc/kirki/config.php:6055
+msgid "Fixed-width"
+msgstr ""
+
+#: inc/kirki/config.php:587 inc/kirki/config.php:1102
+#: inc/kirki/config.php:1375 inc/kirki/config.php:4752
+#: inc/kirki/config.php:5764 inc/kirki/config.php:6056
+msgid "Full-width"
+msgstr ""
+
+#: inc/kirki/config.php:594
+msgid "Link Color"
+msgstr ""
+
+#: inc/kirki/config.php:617
+msgid "Link Color on Hover"
+msgstr ""
+
+#: inc/kirki/config.php:640
+msgid "Submenu Background Color"
+msgstr ""
+
+#: inc/kirki/config.php:660
+msgid "Submenu Link Color"
+msgstr ""
+
+#: inc/kirki/config.php:675
+msgid "Submenu Link Color on Hover"
+msgstr ""
+
+#: inc/kirki/config.php:690
+msgid "Submenu Separator Color"
+msgstr ""
+
+#: inc/kirki/config.php:713
+msgid "Sticky Menu Background Color"
+msgstr ""
+
+#: inc/kirki/config.php:732
+msgid "Sticky Menu Link Color"
+msgstr ""
+
+#: inc/kirki/config.php:751
+msgid "Sticky Menu Border Color"
+msgstr ""
+
+#: inc/kirki/config.php:768
+msgid "Drag to reorder modules"
+msgstr ""
+
+#: inc/kirki/config.php:773
+msgid "Slider"
+msgstr ""
+
+#: inc/kirki/config.php:774
+msgid "Icon Service"
+msgstr ""
+
+#: inc/kirki/config.php:775
+msgid "Icon Service with Image"
+msgstr ""
+
+#: inc/kirki/config.php:776
+msgid "Portfolio"
+msgstr ""
+
+#: inc/kirki/config.php:777
+msgid "Vertical Promotion"
+msgstr ""
+
+#: inc/kirki/config.php:778
+msgid "Horizontal Promotion"
+msgstr ""
+
+#: inc/kirki/config.php:780
+msgid "Contact"
+msgstr ""
+
+#: inc/kirki/config.php:781
+msgid "Process"
+msgstr ""
+
+#: inc/kirki/config.php:782
+msgid "Team"
+msgstr ""
+
+#: inc/kirki/config.php:783 inc/kirki/config.php:4360
+msgid "Skill Bar"
+msgstr ""
+
+#: inc/kirki/config.php:784
+msgid "Testimonial"
+msgstr ""
+
+#: inc/kirki/config.php:785 template-parts/content-ajax-portfolio.php:116
+msgid "Client"
+msgstr ""
+
+#: inc/kirki/config.php:786 inc/kirki/config.php:4897
+msgid "Fun Fact"
+msgstr ""
+
+#: inc/kirki/config.php:787
+msgid "Pricing Table"
+msgstr ""
+
+#: inc/kirki/config.php:788
+msgid "Twitter"
+msgstr ""
+
+#: inc/kirki/config.php:789
+msgid "MailChimp Subscribe"
+msgstr ""
+
+#: inc/kirki/config.php:790
+msgid "Widget"
+msgstr ""
+
+#: inc/kirki/config.php:791
+msgid "Custom"
+msgstr ""
+
+#: inc/kirki/config.php:799
+msgid "Slider Type"
+msgstr ""
+
+#: inc/kirki/config.php:812 inc/kirki/config.php:2199
+#: inc/kirki/config.php:2452 inc/kirki/config.php:5528
+msgid "Heading"
+msgstr ""
+
+#: inc/kirki/config.php:813 inc/kirki/config.php:1121
+#: inc/kirki/config.php:1394 inc/kirki/config.php:1673
+#: inc/kirki/config.php:2200 inc/kirki/config.php:2453
+#: inc/kirki/config.php:2674 inc/kirki/config.php:3101
+#: inc/kirki/config.php:3475 inc/kirki/config.php:3775
+#: inc/kirki/config.php:4066 inc/kirki/config.php:4395
+#: inc/kirki/config.php:4932 inc/kirki/config.php:5529
+#: inc/kirki/config.php:5783 inc/kirki/config.php:6075
+msgid "If you want to color the word, just wrap it with \\\"span\\\" tag."
+msgstr ""
+
+#: inc/kirki/config.php:837 inc/kirki/config.php:2227
+#: inc/kirki/config.php:2480 inc/kirki/config.php:5556
+msgid "Content"
+msgstr ""
+
+#: inc/kirki/config.php:861 inc/kirki/config.php:1007
+#: inc/kirki/config.php:1165 inc/kirki/config.php:1438
+#: inc/kirki/config.php:1717 inc/kirki/config.php:2311
+#: inc/kirki/config.php:2564 inc/kirki/config.php:2718
+#: inc/kirki/config.php:3145 inc/kirki/config.php:3519
+#: inc/kirki/config.php:3819 inc/kirki/config.php:4110
+#: inc/kirki/config.php:4439 inc/kirki/config.php:4770
+#: inc/kirki/config.php:4976 inc/kirki/config.php:5659
+#: inc/kirki/config.php:5827 inc/kirki/config.php:6119
+#: inc/kirki/config.php:6538
+msgid "Font Color"
+msgstr ""
+
+#: inc/kirki/config.php:887 inc/kirki/config.php:2254
+#: inc/kirki/config.php:2507 inc/kirki/config.php:5302
+#: inc/kirki/config.php:5609
+msgid "Button Text"
+msgstr ""
+
+#: inc/kirki/config.php:911 inc/kirki/config.php:2271
+#: inc/kirki/config.php:2524 inc/kirki/config.php:5319
+msgid "Button URL"
+msgstr ""
+
+#: inc/kirki/config.php:955 inc/kirki/config.php:1289
+#: inc/kirki/config.php:1582 inc/kirki/config.php:1822
+#: inc/kirki/config.php:2370 inc/kirki/config.php:2622
+#: inc/kirki/config.php:2823 inc/kirki/config.php:3258
+#: inc/kirki/config.php:3684 inc/kirki/config.php:3975
+#: inc/kirki/config.php:4264 inc/kirki/config.php:4572
+#: inc/kirki/config.php:4705 inc/kirki/config.php:4859
+#: inc/kirki/config.php:5149 inc/kirki/config.php:5446
+#: inc/kirki/config.php:5717 inc/kirki/config.php:5940
+#: inc/kirki/config.php:6224 inc/kirki/includes/class-kirki-toolkit.php:53
+msgid "Background Image"
+msgstr ""
+
+#: inc/kirki/config.php:975 inc/kirki/config.php:1053
+#: inc/kirki/config.php:1311 inc/kirki/config.php:1604
+#: inc/kirki/config.php:1844 inc/kirki/config.php:2392
+#: inc/kirki/config.php:2644 inc/kirki/config.php:2845
+#: inc/kirki/config.php:3280 inc/kirki/config.php:3706
+#: inc/kirki/config.php:3997 inc/kirki/config.php:4286
+#: inc/kirki/config.php:4594 inc/kirki/config.php:4727
+#: inc/kirki/config.php:4881 inc/kirki/config.php:5171
+#: inc/kirki/config.php:5468 inc/kirki/config.php:5739
+#: inc/kirki/config.php:5962 inc/kirki/config.php:6246
+msgid "Enable Parallax Scrolling?"
+msgstr ""
+
+#: inc/kirki/config.php:991 inc/kirki/config.php:1069
+msgid "Enable Scroll Down Button?"
+msgstr ""
+
+#: inc/kirki/config.php:1086
+msgid "You can create slides from Slider Metabox by editing your Front Page."
+msgstr ""
+
+#: inc/kirki/config.php:1086 inc/kirki/config.php:1359
+#: inc/kirki/config.php:1652 inc/kirki/config.php:3454
+#: inc/kirki/config.php:3754 inc/kirki/config.php:4045
+#: inc/kirki/config.php:4642 inc/kirki/config.php:5219
+msgid "Edit Front Page"
+msgstr ""
+
+#: inc/kirki/config.php:1096 inc/kirki/config.php:1369
+#: inc/kirki/config.php:4746 inc/kirki/config.php:5758
+#: inc/kirki/config.php:6050
+msgid "Choose the layout for the container."
+msgstr ""
+
+#: inc/kirki/config.php:1109 inc/kirki/config.php:1382
+#: inc/kirki/config.php:1661 inc/kirki/config.php:2188
+#: inc/kirki/config.php:2441 inc/kirki/config.php:2662
+#: inc/kirki/config.php:3089 inc/kirki/config.php:3463
+#: inc/kirki/config.php:3763 inc/kirki/config.php:4054
+#: inc/kirki/config.php:4383 inc/kirki/config.php:4651
+#: inc/kirki/config.php:4759 inc/kirki/config.php:4920
+#: inc/kirki/config.php:5228 inc/kirki/config.php:5517
+#: inc/kirki/config.php:5771 inc/kirki/config.php:6063
+msgid "Module ID"
+msgstr ""
+
+#: inc/kirki/config.php:1110 inc/kirki/config.php:1383
+#: inc/kirki/config.php:1662 inc/kirki/config.php:2189
+#: inc/kirki/config.php:2442 inc/kirki/config.php:2663
+#: inc/kirki/config.php:3090 inc/kirki/config.php:3464
+#: inc/kirki/config.php:3764 inc/kirki/config.php:4055
+#: inc/kirki/config.php:4384 inc/kirki/config.php:4652
+#: inc/kirki/config.php:4760 inc/kirki/config.php:4921
+#: inc/kirki/config.php:5229 inc/kirki/config.php:5518
+#: inc/kirki/config.php:5772 inc/kirki/config.php:6064
+msgid ""
+"Set up a unique ID for the module, the ID will be used for page scrolling "
+"navigation."
+msgstr ""
+
+#: inc/kirki/config.php:1120 inc/kirki/config.php:1393
+#: inc/kirki/config.php:1672 inc/kirki/config.php:2673
+#: inc/kirki/config.php:3100 inc/kirki/config.php:3474
+#: inc/kirki/config.php:3774 inc/kirki/config.php:4065
+#: inc/kirki/config.php:4394 inc/kirki/config.php:4931
+#: inc/kirki/config.php:5782 inc/kirki/config.php:6074
+msgid "Title"
+msgstr ""
+
+#: inc/kirki/config.php:1138 inc/kirki/config.php:1411
+#: inc/kirki/config.php:1690 inc/kirki/config.php:2691
+#: inc/kirki/config.php:3118 inc/kirki/config.php:3492
+#: inc/kirki/config.php:3792 inc/kirki/config.php:4083
+#: inc/kirki/config.php:4412 inc/kirki/config.php:4949
+#: inc/kirki/config.php:5800 inc/kirki/config.php:6092
+msgid "Subtitle"
+msgstr ""
+
+#: inc/kirki/config.php:1155 inc/kirki/config.php:1428
+#: inc/kirki/config.php:1707 inc/kirki/config.php:2708
+#: inc/kirki/config.php:3135 inc/kirki/config.php:3509
+#: inc/kirki/config.php:3809 inc/kirki/config.php:4100
+#: inc/kirki/config.php:4429 inc/kirki/config.php:4966
+#: inc/kirki/config.php:5817 inc/kirki/config.php:6109
+msgid "Caption Animation"
+msgstr ""
+
+#: inc/kirki/config.php:1188 inc/kirki/config.php:1461
+#: inc/kirki/config.php:1740 inc/kirki/config.php:2741
+#: inc/kirki/config.php:3168 inc/kirki/config.php:3551
+#: inc/kirki/config.php:4999 inc/kirki/config.php:5850
+#: inc/kirki/config.php:6142
+msgid "Separator Line Color"
+msgstr ""
+
+#: inc/kirki/config.php:1211 inc/kirki/config.php:1484
+#: inc/kirki/config.php:1763 inc/kirki/config.php:2764
+#: inc/kirki/config.php:3191 inc/kirki/config.php:3574
+#: inc/kirki/config.php:5873 inc/kirki/config.php:6165
+msgid "Separator Circle Color"
+msgstr ""
+
+#: inc/kirki/config.php:1234
+msgid "Icon Background on Hover"
+msgstr ""
+
+#: inc/kirki/config.php:1253 inc/kirki/config.php:1546
+#: inc/kirki/config.php:1786 inc/kirki/config.php:2334
+#: inc/kirki/config.php:2587 inc/kirki/config.php:2787
+#: inc/kirki/config.php:3214 inc/kirki/config.php:3648
+#: inc/kirki/config.php:3939 inc/kirki/config.php:4220
+#: inc/kirki/config.php:4536 inc/kirki/config.php:4662
+#: inc/kirki/config.php:4816 inc/kirki/config.php:5113
+#: inc/kirki/config.php:5410 inc/kirki/config.php:5682
+#: inc/kirki/config.php:5896 inc/kirki/config.php:6188
+msgid "Background"
+msgstr ""
+
+#: inc/kirki/config.php:1258 inc/kirki/config.php:1551
+#: inc/kirki/config.php:1791 inc/kirki/config.php:2339
+#: inc/kirki/config.php:2592 inc/kirki/config.php:2792
+#: inc/kirki/config.php:3219 inc/kirki/config.php:3653
+#: inc/kirki/config.php:3944 inc/kirki/config.php:4225
+#: inc/kirki/config.php:4541 inc/kirki/config.php:4667
+#: inc/kirki/config.php:4821 inc/kirki/config.php:5118
+#: inc/kirki/config.php:5415 inc/kirki/config.php:5687
+#: inc/kirki/config.php:5901 inc/kirki/config.php:6193
+msgid "Color"
+msgstr ""
+
+#: inc/kirki/config.php:1260 inc/kirki/config.php:1553
+#: inc/kirki/config.php:1793 inc/kirki/config.php:2341
+#: inc/kirki/config.php:2794 inc/kirki/config.php:3221
+#: inc/kirki/config.php:3655 inc/kirki/config.php:3946
+#: inc/kirki/config.php:4227 inc/kirki/config.php:4543
+#: inc/kirki/config.php:5120 inc/kirki/config.php:5417
+#: inc/kirki/config.php:5903 inc/kirki/config.php:6195
+msgid "Video"
+msgstr ""
+
+#: inc/kirki/config.php:1327 inc/kirki/config.php:1620
+#: inc/kirki/config.php:1860 inc/kirki/config.php:2408
+#: inc/kirki/config.php:2861 inc/kirki/config.php:3296
+#: inc/kirki/config.php:3722 inc/kirki/config.php:4013
+#: inc/kirki/config.php:4302 inc/kirki/config.php:4610
+#: inc/kirki/config.php:5187 inc/kirki/config.php:5484
+#: inc/kirki/config.php:5978 inc/kirki/config.php:6262
+msgid "YouTube URL"
+msgstr ""
+
+#: inc/kirki/config.php:1359
+msgid ""
+"You can create icon service boxes from Icon Services Metabox by editing your "
+"Front Page."
+msgstr ""
+
+#: inc/kirki/config.php:1516
+msgid "Image Animation"
+msgstr ""
+
+#: inc/kirki/config.php:1527
+msgid "Icon Color"
+msgstr ""
+
+#: inc/kirki/config.php:1652
+msgid ""
+"You can create icon service boxes from Icon Services with Image Metabox by "
+"editing your Front Page."
+msgstr ""
+
+#: inc/kirki/config.php:1891
+msgid "Enable Portfolio Filter?"
+msgstr ""
+
+#: inc/kirki/config.php:1900
+msgid "Filter Animation"
+msgstr ""
+
+#: inc/kirki/config.php:1917
+msgid "Show All Button Text"
+msgstr ""
+
+#: inc/kirki/config.php:1941
+msgid "Filter Font Color"
+msgstr ""
+
+#: inc/kirki/config.php:1967
+msgid "Filter Background Color"
+msgstr ""
+
+#: inc/kirki/config.php:1993
+msgid "Portfolio Item Background on Hover"
+msgstr ""
+
+#: inc/kirki/config.php:2016 inc/kirki/config.php:2039
+msgid "Portfolio Item Title Color"
+msgstr ""
+
+#: inc/kirki/config.php:2062
+msgid "Portfolio Item Tag Color"
+msgstr ""
+
+#: inc/kirki/config.php:2085
+msgid "Portfolio Modal Title Color"
+msgstr ""
+
+#: inc/kirki/config.php:2108
+msgid "Portfolio Modal Content Color"
+msgstr ""
+
+#: inc/kirki/config.php:2131
+msgid "Portfolio Modal Separator Color"
+msgstr ""
+
+#: inc/kirki/config.php:2163
+msgid "Portfolio Modal Background Color"
+msgstr ""
+
+#: inc/kirki/config.php:2217 inc/kirki/config.php:2470
+#: inc/kirki/config.php:5546
+msgid "Heading Animation"
+msgstr ""
+
+#: inc/kirki/config.php:2244 inc/kirki/config.php:2497
+#: inc/kirki/config.php:5573
+msgid "Content Animation"
+msgstr ""
+
+#: inc/kirki/config.php:2288 inc/kirki/config.php:2541
+#: inc/kirki/config.php:5336 inc/kirki/config.php:5626
+msgid "Button Animation"
+msgstr ""
+
+#: inc/kirki/config.php:2892
+msgid "Post Date Font Color"
+msgstr ""
+
+#: inc/kirki/config.php:2915
+msgid "Post Date Background Color"
+msgstr ""
+
+#: inc/kirki/config.php:2938 inc/kirki/config.php:6519
+msgid "Read More Button Text"
+msgstr ""
+
+#: inc/kirki/config.php:2955
+msgid "Read More Font Color"
+msgstr ""
+
+#: inc/kirki/config.php:2978
+msgid "Read More Background Color"
+msgstr ""
+
+#: inc/kirki/config.php:3001
+msgid "View More Button Text"
+msgstr ""
+
+#: inc/kirki/config.php:3018
+msgid "View More Font Color"
+msgstr ""
+
+#: inc/kirki/config.php:3041
+msgid "View More Icon Color"
+msgstr ""
+
+#: inc/kirki/config.php:3064
+msgid "View More Background Color"
+msgstr ""
+
+#: inc/kirki/config.php:3327
+msgid "Contact Form Animation"
+msgstr ""
+
+#: inc/kirki/config.php:3337
+msgid "Send Button Text"
+msgstr ""
+
+#: inc/kirki/config.php:3367
+msgid "Enable Google Maps?"
+msgstr ""
+
+#: inc/kirki/config.php:3376
+msgid "Latitude"
+msgstr ""
+
+#: inc/kirki/config.php:3392
+msgid "Longitude"
+msgstr ""
+
+#: inc/kirki/config.php:3409
+msgid "How to find latitude and longitude coordinates of a location?"
+msgstr ""
+
+#: inc/kirki/config.php:3423
+msgid "Google Maps API key"
+msgstr ""
+
+#: inc/kirki/config.php:3439
+msgid "How to get an API key?"
+msgstr ""
+
+#: inc/kirki/config.php:3454
+msgid ""
+"You can create contact items from Contact Metabox by editing your Front Page."
+msgstr ""
+
+#: inc/kirki/config.php:3597
+msgid "Process Label Color"
+msgstr ""
+
+#: inc/kirki/config.php:3629
+msgid "Active Process Color"
+msgstr ""
+
+#: inc/kirki/config.php:3754
+msgid ""
+"You can create process flow from Process Metabox by editing your Front Page."
+msgstr ""
+
+#: inc/kirki/config.php:3842 inc/kirki/config.php:4462
+msgid "Separator Line & Dots Color"
+msgstr ""
+
+#: inc/kirki/config.php:3874 inc/kirki/config.php:4494
+msgid "Separator Circle & Active Dot Color"
+msgstr ""
+
+#: inc/kirki/config.php:3893
+msgid "Font Color for Bio"
+msgstr ""
+
+#: inc/kirki/config.php:3916
+msgid "Background Color for Bio"
+msgstr ""
+
+#: inc/kirki/config.php:4045
+msgid ""
+"You can create team members from Team Metabox by editing your Front Page."
+msgstr ""
+
+#: inc/kirki/config.php:4133
+msgid "Separator Line & Progress Bar Color"
+msgstr ""
+
+#: inc/kirki/config.php:4165
+msgid "Separator Circle & Active Bar Color"
+msgstr ""
+
+#: inc/kirki/config.php:4197
+msgid "Percentage Background Color"
+msgstr ""
+
+#: inc/kirki/config.php:4333 inc/kirki/config.php:6293
+msgid "Content Box"
+msgstr ""
+
+#: inc/kirki/config.php:4350
+msgid "Content Box Animation"
+msgstr ""
+
+#: inc/kirki/config.php:4367
+msgid "Skill Bar Label"
+msgstr ""
+
+#: inc/kirki/config.php:4372
+msgid "Skill Bar Percentage (e.g. 80%)"
+msgstr ""
+
+#: inc/kirki/config.php:4513
+msgid "Testimonial Box Background Color"
+msgstr ""
+
+#: inc/kirki/config.php:4642
+msgid ""
+"You can create testimonials from Testimonial Metabox by editing your Front "
+"Page."
+msgstr ""
+
+#: inc/kirki/config.php:4793
+msgid "Label Color"
+msgstr ""
+
+#: inc/kirki/config.php:4904
+msgid "Fact Label"
+msgstr ""
+
+#: inc/kirki/config.php:4909
+msgid "Fact Number"
+msgstr ""
+
+#: inc/kirki/config.php:5022
+msgid "Separator Circle & Featured Table Color"
+msgstr ""
+
+#: inc/kirki/config.php:5045
+msgid "Pricing Table Box Font Color"
+msgstr ""
+
+#: inc/kirki/config.php:5068
+msgid "Pricing Table Box Background Color"
+msgstr ""
+
+#: inc/kirki/config.php:5219
+msgid ""
+"You can create pricing items from Pricing Table Metabox by editing your "
+"Front Page."
+msgstr ""
+
+#: inc/kirki/config.php:5239
+msgid "Twitter Logo Animation"
+msgstr ""
+
+#: inc/kirki/config.php:5249
+msgid "Twitter Username"
+msgstr ""
+
+#: inc/kirki/config.php:5258
+msgid "Consumer Key"
+msgstr ""
+
+#: inc/kirki/config.php:5267
+msgid "Consumer Secret"
+msgstr ""
+
+#: inc/kirki/config.php:5276
+msgid "Access Token"
+msgstr ""
+
+#: inc/kirki/config.php:5285
+msgid "Access Token Secret"
+msgstr ""
+
+#: inc/kirki/config.php:5295
+msgid "How to get Twitter API Consumer and Secret Keys?"
+msgstr ""
+
+#: inc/kirki/config.php:5359
+msgid "Tweet Color"
+msgstr ""
+
+#: inc/kirki/config.php:5391
+msgid "Twitter Logo & Link Color"
+msgstr ""
+
+#: inc/kirki/config.php:5583
+msgid "MailChimp API Key"
+msgstr ""
+
+#: inc/kirki/config.php:5592
+msgid "MailChimp List ID"
+msgstr ""
+
+#: inc/kirki/config.php:5602
+msgid "How to get MailChimp API Key and List ID?"
+msgstr ""
+
+#: inc/kirki/config.php:5636
+msgid "Button Color"
+msgstr ""
+
+#: inc/kirki/config.php:6009
+msgid "Widget Area"
+msgstr ""
+
+#: inc/kirki/config.php:6017
+msgid "Widget Area Name"
+msgstr ""
+
+#: inc/kirki/config.php:6022
+msgid "Number of Widgets per Row"
+msgstr ""
+
+#: inc/kirki/config.php:6040
+msgid ""
+"First you need to create widget areas, save and refresh the page, then go to "
+"Customizer -> Widgets to manage widgets."
+msgstr ""
+
+#: inc/kirki/config.php:6305
+msgid "Header Image"
+msgstr ""
+
+#: inc/kirki/config.php:6318
+msgid "Header Font Color"
+msgstr ""
+
+#: inc/kirki/config.php:6341
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/kirki/config.php:6364
+msgid "Accent Color"
+msgstr ""
+
+#: inc/kirki/config.php:6412
+msgid "Text Color"
+msgstr ""
+
+#: inc/kirki/config.php:6439
+msgid "Additional  Color"
+msgstr ""
+
+#: inc/kirki/config.php:6440
+msgid "This additional color defines the color of Read More and Post Date."
+msgstr ""
+
+#: inc/kirki/config.php:6463
+msgid "Additional Color"
+msgstr ""
+
+#: inc/kirki/config.php:6464
+msgid ""
+"This additional color defines the color of Navigation and Post Meta for "
+"Widgets."
+msgstr ""
+
+#: inc/kirki/config.php:6479
+msgid "Border & Separator Line Color"
+msgstr ""
+
+#: inc/kirki/config.php:6576
+msgid "Show Site Logo?"
+msgstr ""
+
+#: inc/kirki/config.php:6585
+msgid "Site Logo Animation"
+msgstr ""
+
+#: inc/kirki/config.php:6602
+msgid "Show Site Title?"
+msgstr ""
+
+#: inc/kirki/config.php:6611
+msgid "Site Title Animation"
+msgstr ""
+
+#: inc/kirki/config.php:6628
+msgid "Enable Social Links?"
+msgstr ""
+
+#: inc/kirki/config.php:6637
+msgid "Social Links Animation"
+msgstr ""
+
+#: inc/kirki/config.php:6654
+msgid "Icon Background Color"
+msgstr ""
+
+#: inc/kirki/config.php:6684
+msgid "Copyright Information"
+msgstr ""
+
+#: inc/kirki/config.php:6685
+msgid ""
+"Want to remove the theme byline? See section \"Upgrade\" for more "
+"information."
+msgstr ""
+
+#: inc/kirki/config.php:6687
+msgid "Copyrights &copy; 2016. All Rights Reserved."
+msgstr ""
+
+#: inc/kirki/config.php:6695
+msgid "Note: to remove theme byline, you need activate your"
+msgstr ""
+
+#: inc/kirki/config.php:6695
+msgid "theme license"
+msgstr ""
+
+#: inc/kirki/config.php:6716
+msgid "none"
+msgstr ""
+
+#: inc/kirki/config.php:6717
+msgid "flash"
+msgstr ""
+
+#: inc/kirki/config.php:6718
+msgid "pulse"
+msgstr ""
+
+#: inc/kirki/config.php:6719
+msgid "rubberBand"
+msgstr ""
+
+#: inc/kirki/config.php:6720
+msgid "shake"
+msgstr ""
+
+#: inc/kirki/config.php:6721
+msgid "swing"
+msgstr ""
+
+#: inc/kirki/config.php:6722
+msgid "tada"
+msgstr ""
+
+#: inc/kirki/config.php:6723
+msgid "wobble"
+msgstr ""
+
+#: inc/kirki/config.php:6724
+msgid "jello"
+msgstr ""
+
+#: inc/kirki/config.php:6725
+msgid "bounce"
+msgstr ""
+
+#: inc/kirki/config.php:6726
+msgid "bounceIn"
+msgstr ""
+
+#: inc/kirki/config.php:6727
+msgid "bounceInLeft"
+msgstr ""
+
+#: inc/kirki/config.php:6728
+msgid "bounceInRight"
+msgstr ""
+
+#: inc/kirki/config.php:6729
+msgid "bounceInUp"
+msgstr ""
+
+#: inc/kirki/config.php:6730
+msgid "bounceInDown"
+msgstr ""
+
+#: inc/kirki/config.php:6731
+msgid "FadeIn"
+msgstr ""
+
+#: inc/kirki/config.php:6732
+msgid "FadeInLeft"
+msgstr ""
+
+#: inc/kirki/config.php:6733
+msgid "FadeInRight"
+msgstr ""
+
+#: inc/kirki/config.php:6734
+msgid "FadeInUp"
+msgstr ""
+
+#: inc/kirki/config.php:6735
+msgid "FadeInDown"
+msgstr ""
+
+#: inc/kirki/config.php:6736
+msgid "flipInX"
+msgstr ""
+
+#: inc/kirki/config.php:6737
+msgid "flipInY"
+msgstr ""
+
+#: inc/kirki/config.php:6738
+msgid "slideInLeft"
+msgstr ""
+
+#: inc/kirki/config.php:6739
+msgid "slideInRight"
+msgstr ""
+
+#: inc/kirki/config.php:6740
+msgid "slideInUp"
+msgstr ""
+
+#: inc/kirki/config.php:6741
+msgid "slideInDown"
+msgstr ""
+
+#: inc/kirki/config.php:6742
+msgid "zoomIn"
+msgstr ""
+
+#: inc/kirki/config.php:6743
+msgid "zoomInLeft"
+msgstr ""
+
+#: inc/kirki/config.php:6744
+msgid "zoomInRight"
+msgstr ""
+
+#: inc/kirki/config.php:6745
+msgid "zoomInUp"
+msgstr ""
+
+#: inc/kirki/config.php:6746
+msgid "zoomInDown"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:54
+msgid "No Repeat"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:55
+msgid "Repeat All"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:56
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:57
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:58
+msgid "Inherit"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:59
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:60
+msgid "Cover"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:61
+msgid "Contain"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:62
+msgid "Background Size"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:63
+msgid "Fixed"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:64
+msgid "Scroll"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:65
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:66
+msgid "Left Top"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:67
+msgid "Left Center"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:68
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:69
+msgid "Right Top"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:70
+msgid "Right Center"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:71
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:72
+msgid "Center Top"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:73
+msgid "Center Center"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:74
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:75
+msgid "Background Position"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:76
+msgid "Background Opacity"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:77
+msgid "ON"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:78
+msgid "OFF"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:79
+msgid "All"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:80
+msgid "Cyrillic"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:81
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:82
+msgid "Devanagari"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:83
+msgid "Greek"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:84
+msgid "Greek Extended"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:85
+msgid "Khmer"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:86
+msgid "Latin"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:87
+msgid "Latin Extended"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:88
+msgid "Vietnamese"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:89
+msgid "Hebrew"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:90
+msgid "Arabic"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:91
+msgid "Bengali"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:92
+msgid "Gujarati"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:93
+msgid "Tamil"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:94
+msgid "Telugu"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:95
+msgid "Thai"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:96
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:97
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:98
+msgctxt "font style"
+msgid "Monospace"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:99
+msgid "Font Family"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:101
+msgid "Font Weight"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:102
+msgid "Line Height"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:103
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:104
+msgid "Top"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:105
+msgid "Bottom"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:106
+msgid "Left"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:107
+msgid "Right"
+msgstr ""
+
+#: inc/kirki/includes/controls/class-kirki-controls-repeater-control.php:34
+msgid "Add new row"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "Older posts"
+msgstr ""
+
+#: inc/template-tags.php:29
+msgid "Newer posts"
+msgstr ""
+
+#: inc/template-tags.php:51
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:81
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:86
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:103 inc/template-tags.php:109
+#: template-parts/content-blog.php:70
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:105 template-parts/content-blog.php:65
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:111
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:117
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:117
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:117
+msgid "% Comments"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:124 template-parts/content-page.php:28
+msgid "Edit %s"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:324
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:325
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:326
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:327
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:328
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:333
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:338
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:343
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:348
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:353
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:363
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:368
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:373
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:378
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:383
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:388
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:389
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:390
+#: inc/tgmpa/tgm-plugin-activation.php:3014
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:391
+#: inc/tgmpa/tgm-plugin-activation.php:2817
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:392
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:393
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:396
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:515
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:516
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:629
+msgid "The tgmpa_admin_menu_use_add_theme_page filter is deprecated."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:818
+#: inc/tgmpa/tgm-plugin-activation.php:3423
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:925
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:925
+#: inc/tgmpa/tgm-plugin-activation.php:928
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:928
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:1106
+#: inc/tgmpa/tgm-plugin-activation.php:2813
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:1866
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2152
+msgid "Required"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2155
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2171
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2174
+msgid "External Source"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2177
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2194
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2198
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2200
+msgid "Active"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2206
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2209
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2212
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2220
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2265
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2268
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2271
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2274
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2356
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2364
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2372
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2384
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2407
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2421
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2422
+msgid "Source"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2423
+msgid "Type"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2427
+msgid "Version"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2428
+#: woocommerce/myaccount/my-orders.php:15
+msgid "Status"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2476
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2480
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2485
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2555
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2588
+msgid "Install"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2594
+msgid "Update"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2597
+msgid "Activate"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2628
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2630
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2666
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2668
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2773
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:2799
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:3013
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:3347
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:3349
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:3350
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:3354
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:3355
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:3355
+#: inc/tgmpa/tgm-plugin-activation.php:3361
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:3355
+#: inc/tgmpa/tgm-plugin-activation.php:3361
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:3356
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:3357
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:3360
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:3361
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:3362
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-activation.php:3363
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:13
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-ajax-portfolio.php:104
+msgid "Created by"
+msgstr ""
+
+#: template-parts/content-ajax-portfolio.php:108
+msgid "Completed on"
+msgstr ""
+
+#: template-parts/content-ajax-portfolio.php:112
+msgid "Skills"
+msgstr ""
+
+#: template-parts/content-blog.php:67
+msgid "Posted in %1$s, "
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:22
+msgid ""
+"Ready to publish your first portfolio? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:42
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:17 template-parts/content-single.php:81
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/module-contact.php:83
+msgid "This field is required."
+msgstr ""
+
+#: template-parts/module-contact.php:84
+msgid "Please check your math."
+msgstr ""
+
+#: template-parts/module-contact.php:85
+msgid "Invalid email address."
+msgstr ""
+
+#: template-parts/module-contact.php:100
+#: woocommerce/single-product-reviews.php:68
+msgid "Email"
+msgstr ""
+
+#: template-parts/module-contact.php:104
+msgid "Phone"
+msgstr ""
+
+#: template-parts/module-contact.php:108
+msgid "Subject"
+msgstr ""
+
+#: template-parts/module-contact.php:112
+msgid "Message"
+msgstr ""
+
+#: template-parts/module-contact.php:135
+msgid "Locate us on the map"
+msgstr ""
+
+#: template-parts/module-subscribe.php:51
+msgid "Please fill out this field."
+msgstr ""
+
+#: template-parts/module-subscribe.php:52
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: template-parts/module-subscribe.php:56
+msgid "Enter your email address..."
+msgstr ""
+
+#: updater/theme-updater-admin.php:132
+msgid "Theme License Manager"
+msgstr ""
+
+#: updater/theme-updater-admin.php:134
+msgid ""
+"Enter your theme license key to remove theme byline and receive automatic "
+"updates."
+msgstr ""
+
+#: updater/theme-updater.php:29
+msgid "Theme License"
+msgstr ""
+
+#: updater/theme-updater.php:30
+msgid "Enter your theme license key."
+msgstr ""
+
+#: updater/theme-updater.php:31
+msgid "License Key"
+msgstr ""
+
+#: updater/theme-updater.php:32
+msgid "License Action"
+msgstr ""
+
+#: updater/theme-updater.php:33
+msgid "Deactivate License"
+msgstr ""
+
+#: updater/theme-updater.php:34
+msgid "Activate License"
+msgstr ""
+
+#: updater/theme-updater.php:35 updater/theme-updater.php:48
+msgid "License status is unknown."
+msgstr ""
+
+#: updater/theme-updater.php:36
+msgid "Renew?"
+msgstr ""
+
+#: updater/theme-updater.php:37
+msgid "unlimited"
+msgstr ""
+
+#: updater/theme-updater.php:38
+msgid "License key is active."
+msgstr ""
+
+#: updater/theme-updater.php:39
+msgid "Lifetime"
+msgstr ""
+
+#: updater/theme-updater.php:40
+msgid "Expiration: %s."
+msgstr ""
+
+#: updater/theme-updater.php:41
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: updater/theme-updater.php:42
+msgid "License key expired %s."
+msgstr ""
+
+#: updater/theme-updater.php:43
+msgid "License key has expired."
+msgstr ""
+
+#: updater/theme-updater.php:44
+msgid "License keys do not match."
+msgstr ""
+
+#: updater/theme-updater.php:45
+msgid "License is inactive."
+msgstr ""
+
+#: updater/theme-updater.php:46
+msgid "License key is disabled."
+msgstr ""
+
+#: updater/theme-updater.php:47
+msgid "Site is inactive."
+msgstr ""
+
+#: updater/theme-updater.php:49
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: updater/theme-updater.php:50
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:17
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:24
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:16
+msgid "Shipping #%d"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:18 woocommerce/cart/cart-shipping.php:93
+#: woocommerce/cart/cart.php:154
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:55
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:59
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:63
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:72 woocommerce/cart/cart-shipping.php:78
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:17
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:22 woocommerce/cart/mini-cart.php:67
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:69 woocommerce/cart/cart.php:28
+#: woocommerce/myaccount/my-orders.php:16
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:81
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:84
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:25
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:26
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:27
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:48 woocommerce/cart/mini-cart.php:36
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:80
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:126
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:126
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:126
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:132
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:38
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:59
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:72 woocommerce/content-product.php:48
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:73
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:14
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:26
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:43
+#: woocommerce/cart/shipping-calculator.php:49
+#: woocommerce/cart/shipping-calculator.php:61
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:50
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:70
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:78
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:83
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:24
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:24
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:31
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:32
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/content-product.php:48
+msgid "View cart"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:13
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:14
+msgid "Date"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:30
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:55
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:65
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:72
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:76
+msgid "View"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:80
+msgid "Cancel"
+msgstr ""
+
+#: woocommerce/product-searchform.php:13
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: woocommerce/single-product/related.php:40
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:24
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:48
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:61
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:61
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:62
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "BeOnePage Pro"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://betheme.me/themes/beonepage/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"BeOnePage is a professional one-page creative WordPress theme. Perfect to "
+"promote your work or your creative business. It is cross-browser compatible, "
+"fully responsive, and retina ready. BeOnePage is very easy to set up and "
+"customize, being powered by the amazing Front Page Builder. The theme "
+"performs beautifully on all devices, with smooth animations and optimum "
+"speed."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "BeTheme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://betheme.me/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr ""
